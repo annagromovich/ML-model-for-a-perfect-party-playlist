@@ -11,3 +11,4 @@ Four machine learning models were elaborated: Elastic Net as a linear model, Dec
 
 Residuals analysis was performed to assess model validity, and model outcomes were analyzed to gain insights into predictive performance. Finally, a playlist was crafted based on the model's recommendations and analysis findings.
 
+Click [here](https://www.youtube.com/playlist?list=PLjyAYjMzZ0FC2nWAMNr9XQamW6IaPsmDG) to play the Perfect 50 songs Playlist for your next summer dance party 💃!
